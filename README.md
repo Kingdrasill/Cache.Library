@@ -1,4 +1,4 @@
-# Implementação de Cache como Biblioteca de Classes em C#
+# Implementação de Cache como Biblioteca em C#
 
 ## 📑 Sumário
 
