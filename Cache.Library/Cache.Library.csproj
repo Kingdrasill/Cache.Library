@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<PackageId>CacheLibrary</PackageId>
+		<Version>1.0.10</Version>
+		<Authors>Gabriel</Authors>
+		<Description>Cache Manager with selectable options.</Description>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	</PropertyGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Options" Version="9.0.5" />
+  </ItemGroup>
+
+</Project>
